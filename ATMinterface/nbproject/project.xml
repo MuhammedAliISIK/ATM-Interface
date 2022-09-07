@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mainct xmlns="http://www.netbeans.org/ns/Mainct/1">
+    <type>org.netbeans.modules.java.j2seMainct</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-Mainct/3">
+            <name>Main</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+    </configuration>
+</Mainct>
